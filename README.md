@@ -1,5 +1,5 @@
 # Research-Project
-ENERGY EFFICIENT COMMUNICATION FOR TASK‐ORIENTED NETWORKS AND INTELLIGENT COMMUNICATION SYSTEMS
+ENERGY EFFICIENT COMMUNICATION FOR TASK‐ORIENTED NETWORKS AND INTELLIGENT COMMUNICATION SYSTEMS,
 We initiate this project for the purpose of reducing the computation cost. The Energy required to transfer a
 single bit costs a lot in terms of computation and communication. In later 2018, Telecom operators accounted
 for around 5 percent of operating expenditures considered only for computation; they account for 2 to 3
